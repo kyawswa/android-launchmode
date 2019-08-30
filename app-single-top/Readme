@@ -1,0 +1,2 @@
+A -> B -> C -> C(single top)
+            \-> B(single top)
